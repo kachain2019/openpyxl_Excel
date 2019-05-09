@@ -10,8 +10,7 @@
 
 * String : https://robotframework.org/robotframework/latest/libraries/String.html
 
-* openpyxl : http://www.pythontutor.net/openpyxl.php
-* : http://zetcode.com/articles/openpyxl/
-* : https://openpyxl.readthedocs.io/en/stable/
+* openpyxl : https://openpyxl.readthedocs.io/en/stable/
+
 
 เดี๋ยวผมอัพวิดีโอให้อีกทีครับ
