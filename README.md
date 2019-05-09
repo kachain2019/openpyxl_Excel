@@ -13,3 +13,5 @@
 * openpyxl : http://www.pythontutor.net/openpyxl.php
 * openpyxl : http://zetcode.com/articles/openpyxl/
 * openpyxl : https://openpyxl.readthedocs.io/en/stable/
+
+เดี๋ยวผมอัพวิดีโอให้อีกทีครับ
