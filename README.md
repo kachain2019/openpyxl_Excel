@@ -13,4 +13,5 @@
 * openpyxl : https://openpyxl.readthedocs.io/en/stable/
 
 
-เดี๋ยวผมอัพวิดีโอให้อีกทีครับ
+เดี๋ยวผมอัพวิดีโอให้อีกทีครับ :
+https://www.youtube.com/watch?v=PIJBqA7IUC4&list=PLZ6Bx61eBnB07SRw1zZR5Pad8kheKLftt&index=7
